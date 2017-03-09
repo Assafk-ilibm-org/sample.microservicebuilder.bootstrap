@@ -1,3 +1,3 @@
-#demo-bootstrap
+# Microservice Builder Sample - Bootstrap Library
 
-`mvn clean install` this before building other repositories in this organization. 
+See the [sample documentation](/wasdev/sample.microservicebuilder.docs) for more information.
